@@ -16,8 +16,10 @@ Welcome to my GitHub profile! I'm passionate about web and mobile development, e
 
 ## 🚀 Highlight Projects
 
-- 🧴 [SkincareApp](https://github.com/anglczbla/SkincareApp): Fullstack web app to manage and review skincare products.
-- 🌿 [SkincareLab](https://github.com/anglczbla/SkincareLab): A Flutter-based mobile app to organize your skincare routine.
+- 🧴 [SkincareApp](https://github.com/anglczbla/SkincareApp): A fullstack web-based e-commerce application designed to support the sale, browsing, and management of skincare products through a seamless and user-friendly platform.
+- 🌿 [SkincareLab](https://github.com/anglczbla/SkincareLab): A mobile application built with Flutter that enables users to explore detailed information and prices of skincare products, as well as conveniently purchase them through an integrated sales system.
+
+
 
 ## 📫 Let's Connect
 
