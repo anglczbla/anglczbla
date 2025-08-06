@@ -7,6 +7,7 @@ I'm passionate about **web and mobile development**, especially building meaning
   <a href="https://github.com/anglczbla">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anglczbla&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anglczbla&layout=compact&theme=algolia&exclude_repo=service,PetHouse,Film-With-RestfulAPI,belajarpab,service,laravelsi4b,flutter_project_si5a" alt="Top Languages"/>
 </p>
 
 ---
